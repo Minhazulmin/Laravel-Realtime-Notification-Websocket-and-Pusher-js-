@@ -197,7 +197,7 @@ Now we have to create our broadcasting event to fire our broadcasting channel.To
 **[Step - 10]** **Run project and open two window** 
 ```bash
  	php artisan serve
-    One window - (http://127.0.0.1:8000/)
+    	One window - (http://127.0.0.1:8000/)
 	Two window - (http://127.0.0.1:8000/send-message)
 	
 
