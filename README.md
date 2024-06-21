@@ -5,9 +5,11 @@ In many modern web applications, WebSockets are used to implement realtime, live
 **Pusher js:** </br>
 Pusher works as a real-time communication layer between the server and the client. It maintains persistent connections at the client using WebSockets, as and when new data is added to your server. If a server wants to push new data to clients, they can do it instantly using Pusher.
 
+![Sponsor](https://i.postimg.cc/QdPWVf9Y/Screenshot-1.png) </br> 
+**For Sponsor WhatsApp me +8801751337061**</br>
 Watch video on YouTube: https://www.youtube.com/minit61 </br>
 Watch video on Facebook: https://www.facebook.com/minit61</br>
-**For Sponsor WhatsApp me +8801751337061**
+
 
 ## 🛠 Skills Required
 PHP Laravel, Basic Knowledge of Pusher js and Websocket, HTML, CSS, Bootstrap, Laravel Command.
